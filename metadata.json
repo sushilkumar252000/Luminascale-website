@@ -1,0 +1,5 @@
+{
+  "name": "LuminaScale: AI 4K Image Enhancer",
+  "description": "A free image enhancer, production-ready web application that allows users to upload low-quality images and receive a super 4K quality, AI-enhanced version with a before-and-after preview and download functionality.",
+  "requestFramePermissions": []
+}
